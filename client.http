@@ -1,0 +1,10 @@
+GET https://v3.football.api-sports.io/fixtures?from=2024-09-01&to=2024-09-14&league=71&season=2024
+X-apisports-key: 9255a71b5b5dda87159cf91bc84c933c
+
+###
+GET https://v3.football.api-sports.io/fixtures?id=1180513
+X-apisports-key: 9255a71b5b5dda87159cf91bc84c933c
+
+###
+GET https://v3.football.api-sports.io/leagues
+X-apisports-key: 9255a71b5b5dda87159cf91bc84c933c
